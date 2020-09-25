@@ -1,10 +1,10 @@
 # Fitsignt
 
-This login page uses HTML, CSS (grid, flexbox). It's also compatible with mobiles with media queries. This  login page is a template created by Stephane Andre.
+This login page uses HTML, CSS (grid, flexbox). It's also compatible with mobile phones thanks to media queries. This  login page is a template created by Stephane Andre.
 
 ## Preview
 
-![Screenshot 1](screenshots/screenshot_1.png)
+![Screenshot 1](screenshots/screenshot.png)
 
 
 
